@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[My Website](https://www.traviskuennen.com)
+My website: [traviskuennen.com](https://www.traviskuennen.com)
 
 
 <!--
