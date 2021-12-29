@@ -4,7 +4,7 @@
 		<img src="https://assets.traviskuennen.com/logos/linkedin-tile.svg" alt="linkedin" width="auto" height="60"/>
 	</a>
 	<a href="https://github.com/tkuennen" target="_blank">
-		<img src="https://assets.traviskuennen.com/logos/gitlab-tile.svg" alt="github" width="auto" height="60"/>
+		<img src="https://assets.traviskuennen.com/logos/github-tile.svg" alt="github" width="auto" height="60"/>
 	</a>
 	<a href="https://gitlab/tkuennen" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/gitlab-tile.svg" alt="dockerhub" width="auto" height="60"/>
