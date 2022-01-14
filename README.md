@@ -35,6 +35,12 @@ My personal website: [traviskuennen.com](https://www.traviskuennen.com)
 	<a href="https://www.apache.org/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/apache-icon.svg" alt="ansible" width="40" height="40"/>
 	</a>
+	<a href="https://cloudflare.com" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
+	</a>
+	<a href="https://www.docker.com/" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/docker-icon.svg" alt="docker" width="40" height="40"/>
+	</a>
 	<a href="https://github.com/argoproj/argo-cd" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/argoprojio-icon.svg" alt="argocd" width="40" height="40"/>
 	</a>  
@@ -50,8 +56,14 @@ My personal website: [traviskuennen.com](https://www.traviskuennen.com)
 	<a href="https://gitlab.com/tkuennen" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
 	</a>
-	<a href="https://www.docker.com/" target="_blank">
-		<img src="https://assets.traviskuennen.com/logos/docker-icon.svg" alt="docker" width="40" height="40"/>
+	<a href="https://grafana.com" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+	</a>
+	<a href="https://www.ieee.org" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/ieee-icon.svg" alt="IEEE" width="40" height="40"/>
+	</a>
+	<a href="https://kubernetes.io" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 	</a>
 	<a href="https://www.linux.org/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/linux-icon.svg" alt="linux" width="40" height="40"/>
@@ -59,21 +71,9 @@ My personal website: [traviskuennen.com](https://www.traviskuennen.com)
 	<a href="https://www.nginx.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/nginx-icon.svg" alt="nginx" width="40" height="40"/>
 	</a>
-	<a href="https://kubernetes.io" target="_blank">
-		<img src="https://assets.traviskuennen.com/logos/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-	</a>
 	<a href="https://aws.amazon.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 	</a>
   	<a href="https://www.python.org/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/python-icon.svg" alt="python" width="40" height="40"/>
-	</a>
-	<a href="https://grafana.com" target="_blank">
-		<img src="https://assets.traviskuennen.com/logos/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-	</a>
-	<a href="https://cloudflare.com" target="_blank">
-		<img src="https://assets.traviskuennen.com/logos/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
-	</a>	
-	<a href="https://www.ieee.org" target="_blank">
-		<img src="https://assets.traviskuennen.com/logos/ieee-icon.svg" alt="IEEE" width="40" height="40"/>
 </p>
