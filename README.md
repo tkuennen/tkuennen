@@ -18,7 +18,7 @@
 
 I'm a Systems Engineer focusing on durability, security, reliability & usability. I have had a passion and interest in computers and electronics since I was a child and have been professionally working in information technology for close to two decades.
 
-I'm currently a Site Reliability Engineer at Woolpert Cloud Solutions working with AWS & GCP. Previously I worked as a Senior Systems Administrator at the National Center for Atmospheric Research in charge of managing HPC and infrastructure for the High Altitude Observatory.
+I'm currently a Site Reliability Engineer at Woolpert Cloud Solutions working with AWS & GCP. Prior to this position, I worked as a Senior Systems Administrator at the National Center for Atmospheric Research in charge of managing HPC and infrastructure for the High Altitude Observatory.
 
 My personal website: [traviskuennen.com](https://www.traviskuennen.com)
 
