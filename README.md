@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Travis Kuennen.</h1>
+<h1 align="center">Hi there 👋, I'm Travis</h1>
+<h3 aligh="center">I like computers</h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/traviskuennen" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/linkedin-tile.svg" alt="linkedin" width="auto" height="60"/>
