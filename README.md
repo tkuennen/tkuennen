@@ -22,10 +22,10 @@ I'm currently a Site Reliability Engineer at Woolpert Cloud Solutions working wi
 
 My personal website: [traviskuennen.com](https://www.traviskuennen.com)
 
-<p align="center">
-  <a href="https://github.com/tkuennen"><img src=https://github-readme-stats.vercel.app/api/?username=tkuennen&count_private=true" alt="Travis' github stats"></a>
-</p>
-	  
+#<p align="center">
+#  <a href="https://github.com/tkuennen"><img src=https://github-readme-stats.vercel.app/api/?username=tkuennen&count_private=true" alt="Travis' github stats"></a>
+#</p>
+#	  
 <h1 align="center">Languages & Tools</h1>
   
 <p align="center">
