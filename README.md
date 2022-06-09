@@ -77,4 +77,7 @@ My personal website: [traviskuennen.com](https://www.traviskuennen.com)
 	</a>
   	<a href="https://www.python.org/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/python-icon.svg" alt="python" width="40" height="40"/>
+	<a href="https://www.redhat.com/" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/redhat-icon.svg" alt="RedHat" width="40" height="40"/>  
+	
 </p>
