@@ -25,4 +25,4 @@ jobs:
           user: tkuennen
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Australia/Melbourne
+          config_timezone: America/Denver
