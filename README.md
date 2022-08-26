@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Travis</h1>
 <h3 align="center">I like computers</h3>
+<h3 align="center">[Metrics](https://github.com/tkuennen/tkuennen/blob/master/github-metrics.svg)</h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/traviskuennen" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/linkedin-tile.svg" alt="linkedin" width="auto" height="60"/>
