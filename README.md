@@ -1,8 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Travis</h1>
-<p align="center">
-		<img src="[https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg])" alt="Metrics"
-	</a>	     
-<h3 align="center">I like computers</h3>
+
+<section class="container">
+    <a href="github.com/tkuennen">
+    <img class="center-block" src="https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg" width="150px;" height="300px;"/>
+    </a>
+</section>
+
 <p align="center">
 	<a href="https://www.linkedin.com/in/traviskuennen" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/linkedin-tile.svg" alt="linkedin" width="auto" height="60"/>
