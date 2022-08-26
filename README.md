@@ -2,7 +2,7 @@
 
 <section class="container">
     <a href="github.com/tkuennen">
-    <img class="center-block" src="https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg" width="150px;" height="300px;"/>
+    <img class="center-block" src="https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg" ;"/>
     </a>
 </section>
 
