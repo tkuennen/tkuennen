@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Travis</h1>
 <p align="center">
-		<img src="[https://github.com/tkuennen/tkuennen/blob/master/github-metrics.svg])" alt="Metrics"
+		<img src="[https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg])" alt="Metrics"
 	</a>	     
 <h3 align="center">I like computers</h3>
 <p align="center">
