@@ -27,7 +27,7 @@ jobs:
           # Options
           user: tkuennen
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: America/Denver
           plugin_fortune: no
           plugin_habits: yes
@@ -41,7 +41,7 @@ jobs:
           plugin_introduction_title: no
           plugin_isocalendar: no
           plugin_isocalendar_duration: full-year
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
