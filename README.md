@@ -3,11 +3,10 @@
 <section class="container">
     <a href="github.com/tkuennen">
     <img class="center-block" src="https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg" ;"/>
-    </a>
+    </a>													
 </section>
 
-
-
+<section class="container">													
 <p align="center">
 	<a href="https://www.linkedin.com/in/traviskuennen" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/linkedin-tile.svg" alt="linkedin" width="auto" height="60"/>
@@ -22,6 +21,7 @@
 		<img src="https://assets.traviskuennen.com/logos/docker-tile.svg" alt="dockerhub" width="auto" height="60"/>
 	</a>
 </p>
+</section>
 
 <h2 align="center">A little about me</h2>
 
