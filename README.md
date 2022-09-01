@@ -6,6 +6,8 @@
     </a>
 </section>
 
+
+
 <p align="center">
 	<a href="https://www.linkedin.com/in/traviskuennen" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/linkedin-tile.svg" alt="linkedin" width="auto" height="60"/>
