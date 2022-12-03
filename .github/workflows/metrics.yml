@@ -27,7 +27,7 @@ jobs:
           # Options
           user: tkuennen
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: America/Denver
           config_twemoji: yes
           plugin_achievements: yes
