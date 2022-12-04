@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Travis</h1>
 
+<h2 align="center">Contact</h2>
+
 <section class="container">													
 <p align="center">
 	<a href="https://www.linkedin.com/in/traviskuennen" target="_blank">
@@ -23,9 +25,37 @@ I'm a Systems Engineer focusing on durability, security, reliability & usability
 
 I currently work as a Site Reliability Engineer for Woolpert Digital Innovations working with AWS, Azure & Google Cloud. Prior to this position, I worked as a Senior Systems Administrator at the National Center for Atmospheric Research.
 		  
-In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare metal clusters bootstrapped with iPXE and Ansible), and home automation and power systems. My personal website https://www.traviskuennen.com		
+In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare metal clusters bootstrapped with iPXE and Ansible), and home automation and power systems. My personal website https://www.traviskuennen.com
+
+<h2 align="center">Cloud Providers</h1>
+
+<p align="center">
+	
+	<a href="https://aws.amazon.com/" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+	</a>
+	
+	<a href="https://azure.microsoft.com/" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+	</a>
+	
+        <a href="https://cloudflare.com" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
+	</a>
+	
+	<a href="https://www.digitalocean.com/" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/digitalocean-icon.svg" alt="Digital Ocean" width="40" height="40"/>
+	</a>
+	
+	<a href="https://cloud.google.com" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+	</a>
+	
+	<a href="https://www.linode.com/" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/linode-icon.svg" alt="Linode" width="40" height="40"/>
+	</a>
   
-<h1 align="center">Tech Stack</h1>
+<h2 align="center">Tech Stack</h1>
   
 <p align="center">
 	<a href="https://www.ansible.com/" target="_blank">
@@ -34,9 +64,7 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 	<a href="https://www.apache.org/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/apache-icon.svg" alt="ansible" width="40" height="40"/>
 	</a>
-	<a href="https://cloudflare.com" target="_blank">
-		<img src="https://assets.traviskuennen.com/logos/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
-	</a>
+
 	<a href="https://www.docker.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/docker-icon.svg" alt="docker" width="40" height="40"/>
 	</a>
@@ -70,15 +98,14 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 	<a href="https://www.nginx.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/nginx-icon.svg" alt="nginx" width="40" height="40"/>
 	</a>
-	<a href="https://aws.amazon.com/" target="_blank">
-		<img src="https://assets.traviskuennen.com/logos/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-	</a>
+	
   	<a href="https://www.python.org/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/python-icon.svg" alt="python" width="40" height="40"/>
+	</a>	
 	<a href="https://www.redhat.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/redhat-icon.svg" alt="RedHat" width="40" height="40"/>  
-	
-</p>
+	</a>
+</p>		
 
 <h1 align="center">Metrics</h1>
 		
