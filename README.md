@@ -25,7 +25,7 @@ I currently work as a Site Reliability Engineer for Woolpert Digital Innovations
 		  
 In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare metal clusters bootstrapped with iPXE and Ansible), and home automation and power systems. My personal website https://www.traviskuennen.com		
   
-<h1 align="center">Languages & Tools</h1>
+<h1 align="center">Tech Stack</h1>
   
 <p align="center">
 	<a href="https://www.ansible.com/" target="_blank">
@@ -79,6 +79,8 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 		<img src="https://assets.traviskuennen.com/logos/redhat-icon.svg" alt="RedHat" width="40" height="40"/>  
 	
 </p>
+
+<h1 align="center">Metrics</h1>
 		
 <section class="container">
     <a href="github.com/tkuennen">
