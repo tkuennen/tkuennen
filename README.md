@@ -28,9 +28,7 @@ I currently work as a Site Reliability Engineer for Woolpert Digital Innovations
 In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare metal clusters bootstrapped with iPXE and Ansible), and home automation and power systems. My personal website https://www.traviskuennen.com
 
 <h2 align="center">Cloud Providers</h2>
-
 <p align="center">
-	
 	<a href="https://aws.amazon.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 	</a>	
