@@ -1,10 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Travis</h1>
-
 <section class="container">
     <a href="github.com/tkuennen">
     <img class="center-block" src="https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg" ;"/>
     </a>													
 </section>
+
+<h1 align="center">Hi there 👋, I'm Travis</h1>
 
 <section class="container">													
 <p align="center">
