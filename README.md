@@ -49,6 +49,8 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 	<a href="https://www.linode.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/linode-icon.svg" alt="Linode" width="40" height="40"/>
 	</a>
+		
+</p>		
   
 <h2 align="center">Tech Stack</h1>
   
