@@ -106,8 +106,11 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 	</a>
 </p>		
 
-<h2 align="center">Metrics</h2>
-		
+<h2 align="center">📈My Metrics & Stats</h2>
+
+![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=tkuennen&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkuennen&layout=compact&theme=dark&hide_border=true)
+
 <section class="container">
     <a href="github.com/tkuennen">
     <img class="center-block" src="https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg" ;"/>
