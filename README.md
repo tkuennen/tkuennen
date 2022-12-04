@@ -111,5 +111,3 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
     <img class="center-block" src="https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg" ;"/>
     </a>													
 </section>
-
-		
