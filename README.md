@@ -27,6 +27,8 @@ I currently work as a Site Reliability Engineer for Woolpert Digital Innovations
 		  
 In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare metal clusters bootstrapped with iPXE and Ansible), and home automation and power systems. My personal website https://www.traviskuennen.com
 
+<h1 align="center">Tech Stack</h1>
+
 <h2 align="center">Cloud Providers</h2>
 <p align="center">
 	<a href="https://aws.amazon.com/" target="_blank">
@@ -48,7 +50,11 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 		<img src="https://assets.traviskuennen.com/logos/linode-icon.svg" alt="Linode" width="40" height="40"/>
 	</a>
 </p>		
-  
+
+<h2 align="center">Platforms & OSs)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1900E7)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=1900E7)
+
 <h2 align="center">Tech Stack</h2>
   
 <p align="center">
