@@ -99,7 +99,7 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 	</a>
 </p>		
 
-<h1 align="center">Metrics</h1>
+<h2 align="center">Metrics</h2>
 		
 <section class="container">
     <a href="github.com/tkuennen">
