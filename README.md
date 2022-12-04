@@ -31,8 +31,13 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 
 <p align="center">
 	
+	<a href="https://www.ansible.com/" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+	</a>
+	
 	<a href="https://aws.amazon.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+	</a>	
 	<a href="https://azure.microsoft.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
         <a href="https://cloudflare.com" target="_blank">
