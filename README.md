@@ -1,9 +1,3 @@
-<section class="container">
-    <a href="github.com/tkuennen">
-    <img class="center-block" src="https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg" ;"/>
-    </a>													
-</section>
-
 <h1 align="center">Hi there 👋, I'm Travis</h1>
 
 <section class="container">													
@@ -85,3 +79,11 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 		<img src="https://assets.traviskuennen.com/logos/redhat-icon.svg" alt="RedHat" width="40" height="40"/>  
 	
 </p>
+		
+<section class="container">
+    <a href="github.com/tkuennen">
+    <img class="center-block" src="https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg" ;"/>
+    </a>													
+</section>
+
+		
