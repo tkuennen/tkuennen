@@ -51,7 +51,7 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 	</a>
 </p>		
 
-<h2 align="center">Platforms & OSs)
+<h2 align="center">Platforms & OSs</h2>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1900E7)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=1900E7)
 
