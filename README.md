@@ -32,27 +32,21 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 	<a href="https://aws.amazon.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 	</a>	
-	
 	<a href="https://azure.microsoft.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
 	</a>
-	
         <a href="https://cloudflare.com" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/>
 	</a>
-	
 	<a href="https://www.digitalocean.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/digitalocean-icon.svg" alt="Digital Ocean" width="40" height="40"/>
 	</a>
-	
 	<a href="https://cloud.google.com" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
 	</a>
-	
 	<a href="https://www.linode.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/linode-icon.svg" alt="Linode" width="40" height="40"/>
 	</a>
-		
 </p>		
   
 <h2 align="center">Tech Stack</h2>
@@ -64,7 +58,6 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 	<a href="https://www.apache.org/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/apache-icon.svg" alt="ansible" width="40" height="40"/>
 	</a>
-
 	<a href="https://www.docker.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/docker-icon.svg" alt="docker" width="40" height="40"/>
 	</a>
@@ -98,7 +91,6 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 	<a href="https://www.nginx.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/nginx-icon.svg" alt="nginx" width="40" height="40"/>
 	</a>
-	
   	<a href="https://www.python.org/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/python-icon.svg" alt="python" width="40" height="40"/>
 	</a>	
