@@ -87,7 +87,7 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 		<img src="https://assets.traviskuennen.com/logos/argoprojio-icon.svg" alt="argocd" width="40" height="40"/>
 	</a>  
 	<a href="https://www.gnu.org/software/bash/" target="_blank">
-		<img src="https://assets.traviskuennen.com/logos/gnu_bash-icon.svg" alt="ansible" width="40" height="40"/>
+		<img src="https://assets.traviskuennen.com/logos/bash2.svg" alt="ansible" width="40" height="40"/>
 	</a>
 	<a href="https://git-scm.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -109,6 +109,9 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 	</a>
 	<a href="https://www.nginx.com/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/nginx-icon.svg" alt="nginx" width="40" height="40"/>
+	</a>
+	<a href="https://www.proxmox.com/" target="_blank">
+		<img src="https://assets.traviskuennen.com/logos/proxmox-logo.png" alt="Proxmox" width="40" height="40"/>
 	</a>
   	<a href="https://www.python.org/" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/python-icon.svg" alt="python" width="40" height="40"/>
