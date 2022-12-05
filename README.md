@@ -17,7 +17,7 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 	<a href="https://github.com/tkuennen" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/github-tile.svg" alt="github" width="auto" height="60"/>
 	</a>
-	<a href="https://gitlab/tkuennen" target="_blank">
+	<a href="https://gitlab.com/tkuennen" target="_blank">
 		<img src="https://assets.traviskuennen.com/logos/gitlab-tile.svg" alt="dockerhub" width="auto" height="60"/>
 	</a>
 	<a href="https://hub.docker.com/u/tkuennen" target="_blank">
