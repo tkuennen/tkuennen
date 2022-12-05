@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Travis</h1>
 
+<a href="#A little about me" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>
 <h2 align="center">A little about me</h2>
 
 I'm a Systems Engineer focusing on durability, security, reliability & usability. I've had a passion and interest in computers and electronics since I was a child and have been professionally working in information technology for close to two decades.
@@ -49,7 +50,7 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 	</a>
 </p>		
 
-<h2 align="center">Distros</h2>
+<h2 align="center">💻 Operating Systems</h2>
 
 <p align="center">
 	<a href="https://www.linode.com/" target="_blank">
@@ -117,14 +118,21 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 		<img src="https://assets.traviskuennen.com/logos/python-icon.svg" alt="python" width="40" height="40"/>
 	</a>	
 </p>		
-
-<h2 align="center">📈 Metrics & Stats</h2>
-
+<a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>
+<h2 align="center">📈 Metrics & Stats</h2	
+	
 ![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=tkuennen&show_icons=true&theme=dark&hide_border=true)
+	
+<a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>
+	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkuennen&layout=compact&theme=dark&hide_border=true)
+	
+<a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>	
 
 <section class="container">
     <a href="github.com/tkuennen">
     <img class="center-block" src="https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg" ;"/>
     </a>													
 </section>
+
+<a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>
