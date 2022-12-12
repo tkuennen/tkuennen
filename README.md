@@ -5,7 +5,7 @@
 
 I'm a Systems Engineer focusing on durability, security, reliability & usability. I've had a passion and interest in computers and electronics since I was a child and have been professionally working in information technology for close to two decades.
 
-I currently work as a Site Reliability Engineer for Woolpert Digital Innovations working with AWS, Azure & Google Cloud. Prior to this position, I worked as a Senior Systems Administrator at the National Center for Atmospheric Research.
+I currently work as a Site Reliability Engineer primarily working with AWS, Azure & Google Cloud. Prior to the Site Reliability Engineering role, I worked as a Senior Systems Administrator at the National Center for Atmospheric Research.
 		  
 In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare metal clusters bootstrapped with iPXE and Ansible), and home automation and power systems. My personal website https://www.traviskuennen.com
 
