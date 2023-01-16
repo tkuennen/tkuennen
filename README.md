@@ -121,11 +121,7 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 <a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>
 <h2 align="center">📈 Metrics & Stats</h2	
 	
-![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=tkuennen&show_icons=true&theme=dark&hide_border=true)
-	
 <a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkuennen&layout=compact&theme=dark&hide_border=true)
 	
 <a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>	
 
