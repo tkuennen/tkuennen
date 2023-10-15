@@ -122,7 +122,13 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 <h2 align="center">📈 Metrics & Stats</h2	
 	
 <a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>
-	
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tkuennen&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkuennen&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkuennen&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkuennen&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkuennen&theme=radical)
+
 <a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>	
 
 <section class="container">
