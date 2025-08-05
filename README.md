@@ -130,14 +130,3 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkuennen&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkuennen&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkuennen&theme=radical)
-
-
-#<a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>	
-
-#<section class="container">
-#    <a href="github.com/tkuennen">
-#    <img class="center-block" src="https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg" ;"/>
-#    </a>													
-#</section>
-
-#<a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>
