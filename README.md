@@ -7,7 +7,7 @@ I'm a Systems Engineer focusing on durability, security, reliability & usability
 
 I currently work as a Site Reliability Engineer primarily working with AWS, Azure & Google Cloud. Prior to the Site Reliability Engineering role, I worked as a Senior Systems Administrator at the National Center for Atmospheric Research.
 		  
-In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare metal clusters bootstrapped with iPXE and Ansible), and home automation and power systems. My personal website https://www.traviskuennen.com
+In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare metal clusters bootstrapped with iPXE and Ansible), and home automation and power systems.
 
 <section class="container">													
 <p align="center">
@@ -118,6 +118,7 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 		<img src="https://assets.traviskuennen.com/logos/python-icon.svg" alt="python" width="40" height="40"/>
 	</a>	
 </p>		
+
 <a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>
 <h2 align="center">📈 Metrics & Stats</h2	
 	
@@ -131,12 +132,12 @@ In my spare time I tinker with IoT (ESP, Shelly, etc), Kubernetes (Smallish bare
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkuennen&theme=radical)
 
 
-<a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>	
+#<a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>	
 
-<section class="container">
-    <a href="github.com/tkuennen">
-    <img class="center-block" src="https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg" ;"/>
-    </a>													
-</section>
+#<section class="container">
+#    <a href="github.com/tkuennen">
+#    <img class="center-block" src="https://github.com/tkuennen/tkuennen/blob/main/github-metrics.svg" ;"/>
+#    </a>													
+#</section>
 
-<a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>
+#<a href="#Metrics & Stats" style="width:100%"><img style="width:100%" src="https://assets.traviskuennen.com/logos/aqua-divider.png" /></a>
